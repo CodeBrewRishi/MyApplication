@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         ButterKnife.inject(this);
 
         click.setOnClickListener(this);
+        // Just Testing
 
     }
 
